@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# Artefactos de trabajo del prototipo
+screenshots/
+uploads/
