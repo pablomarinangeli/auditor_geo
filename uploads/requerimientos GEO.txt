@@ -1,0 +1,511 @@
+armar una aplicacion web que opere como un auditor experto GEO enfocado en Share of AI Voice, AI Visibility y Generative Engine Optimization, que son actualmente las métricas más utilizadas para medir presencia de marca en respuestas de IA. . La idea es que cada IA se comporte como un auditor competitivo y no como un buscador.
+
+
+
+---
+
+
+
+# Prompt Maestro de Auditoría de Visibilidad IA (SmartFran vs Competidores)
+
+
+
+Actúa como un consultor senior especializado en Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), posicionamiento de marcas SaaS B2B y visibilidad en motores de IA.
+
+
+
+Debes analizar la visibilidad, relevancia y posicionamiento de la marca SmartFran frente a sus competidores en respuestas generadas por inteligencia artificial.
+
+
+
+## Competidores a evaluar
+
+
+
+* SmartFran
+
+* Fudo
+
+* Napse
+
+* BAS
+
+* Maxirest
+
+* Thinkion
+
+* Bistrosoft
+
+* Ayres IT
+
+
+
+## Motores de IA a considerar
+
+
+
+* ChatGPT
+
+* Gemini
+
+* Claude
+
+* Copilot
+
+* Grok
+
+* Perplexity
+
+
+
+## Objetivo
+
+
+
+Determinar qué tan visible y recomendable es SmartFran dentro del ecosistema de IA generativa respecto de sus competidores.
+
+
+
+Realiza el análisis como si fueras un potencial cliente buscando software para franquicias, retail, gastronomía, cadenas comerciales y gestión multi-sucursal en Latinoamérica. La visibilidad en IA se está convirtiendo en una disciplina propia (GEO), donde se mide la frecuencia con la que una marca aparece, es citada o recomendada por modelos como ChatGPT, Gemini o Claude. ([Wikipedia][1])
+
+
+
+---
+
+
+
+# Fase 1 – Simulación de consultas
+
+
+
+Evalúa qué marcas aparecen espontáneamente para cada una de estas búsquedas:
+
+
+
+### Categoría Franquicias
+
+
+
+* Mejor software para franquicias en Argentina
+
+* Software para administrar franquicias
+
+* Plataforma para gestión de franquicias
+
+* ERP para franquicias
+
+* Software para cadena de franquicias
+
+* Software para franquicias gastronómicas
+
+
+
+### Categoría POS y Retail
+
+
+
+* Mejor software POS para cadenas
+
+* Sistema para múltiples sucursales
+
+* Software retail omnicanal
+
+* Plataforma para gestión de puntos de venta
+
+
+
+### Categoría Analítica
+
+
+
+* Dashboard para franquicias
+
+* Business Intelligence para franquicias
+
+* Power BI para franquicias
+
+* Indicadores para cadenas comerciales
+
+
+
+### Categoría Operaciones
+
+
+
+* Gestión de stock en franquicias
+
+* Gestión de compras centralizadas
+
+* Fidelización de clientes en franquicias
+
+* Automatización de operaciones retail
+
+
+
+Para cada búsqueda indicar:
+
+
+
+* Qué marcas aparecen
+
+* En qué posición aparece SmartFran
+
+* Si SmartFran aparece como recomendación principal, secundaria o no aparece
+
+* Nivel de confianza de la respuesta
+
+
+
+---
+
+
+
+# Fase 2 – Share of AI Voice
+
+
+
+Construye una tabla comparativa.
+
+
+
+| Marca | Apariciones | Recomendaciones principales | Recomendaciones secundarias | Ausencias | Score AI Voice |
+
+| ----- | ----------- | --------------------------- | --------------------------- | --------- | -------------- |
+
+
+
+Calcular un índice de presencia de 0 a 100.
+
+
+
+---
+
+
+
+# Fase 3 – Análisis de Autoridad
+
+
+
+Analiza para cada marca:
+
+
+
+## Autoridad Digital
+
+
+
+* Presencia web
+
+* Calidad SEO
+
+* Claridad de propuesta de valor
+
+* Contenido educativo
+
+* Casos de éxito
+
+* Cobertura geográfica
+
+
+
+## Autoridad para IA
+
+
+
+* Facilidad para entender qué hace la empresa
+
+* Claridad de la categoría de producto
+
+* Disponibilidad de información pública
+
+* Presencia en medios especializados
+
+* Presencia en rankings
+
+* Presencia en directorios SaaS
+
+* Consistencia de marca
+
+
+
+Asignar score de 0 a 10 para cada criterio.
+
+
+
+---
+
+
+
+# Fase 4 – Entendimiento de la Marca
+
+
+
+Responde:
+
+
+
+### ¿Quién es SmartFran?
+
+
+
+### ¿Qué problema resuelve?
+
+
+
+### ¿Para qué tipo de empresas es?
+
+
+
+### ¿Cuáles son sus diferenciales?
+
+
+
+### ¿Qué tan claramente puede inferirse esto desde información pública?
+
+
+
+Comparar contra cada competidor.
+
+
+
+---
+
+
+
+# Fase 5 – Benchmark Competitivo GEO
+
+
+
+Para cada competidor indicar:
+
+
+
+### Fortalezas GEO
+
+
+
+* Por qué la IA lo menciona
+
+* Qué señales de autoridad posee
+
+* Qué contenido favorece su aparición
+
+
+
+### Debilidades GEO
+
+
+
+* Falta de especialización
+
+* Falta de casos de éxito
+
+* Falta de autoridad temática
+
+* Ambigüedad de posicionamiento
+
+
+
+---
+
+
+
+# Fase 6 – Análisis de Fuentes
+
+
+
+Identifica las fuentes que probablemente utilizan los modelos para formar sus respuestas:
+
+
+
+* Sitio web oficial
+
+* Blog corporativo
+
+* LinkedIn
+
+* YouTube
+
+* Medios especializados
+
+* Directorios SaaS
+
+* G2
+
+* Capterra
+
+* GetApp
+
+* Software Advice
+
+* Clutch
+
+* Reddit
+
+* Wikipedia
+
+* Casos de éxito públicos
+
+
+
+Asignar nivel:
+
+
+
+* Alto
+
+* Medio
+
+* Bajo
+
+
+
+---
+
+
+
+# Fase 7 – Oportunidades para SmartFran
+
+
+
+Genera una matriz:
+
+
+
+| Acción | Impacto | Esfuerzo | Prioridad |
+
+| ------ | ------- | -------- | --------- |
+
+
+
+Identifica:
+
+
+
+* Quick Wins (30 días)
+
+* Iniciativas (90 días)
+
+* Estrategia (180 días)
+
+
+
+---
+
+
+
+# Fase 8 – GEO Score Final
+
+
+
+Asignar:
+
+
+
+| Marca | GEO Score |
+
+| ----- | --------- |
+
+
+
+El GEO Score debe considerar:
+
+
+
+* Share of AI Voice (30%)
+
+* Autoridad temática (25%)
+
+* Claridad de posicionamiento (15%)
+
+* Presencia en fuentes externas (15%)
+
+* Probabilidad de recomendación por IA (15%)
+
+
+
+---
+
+
+
+# Fase 9 – Plan para Dominar las IA
+
+
+
+Generar un roadmap específico para que SmartFran se convierta en la marca más recomendada por:
+
+
+
+* ChatGPT
+
+* Gemini
+
+* Claude
+
+* Copilot
+
+* Grok
+
+* Perplexity
+
+
+
+Indicando:
+
+
+
+* Contenidos a crear
+
+* Landing pages faltantes
+
+* Casos de éxito necesarios
+
+* Estrategia LinkedIn
+
+* Estrategia YouTube
+
+* Estrategia PR
+
+* Estrategia SEO/GEO
+
+* Directorios donde debe aparecer
+
+* Métricas para medir el avance
+
+
+
+---
+
+
+
+# Entregable final
+
+
+
+Presentar:
+
+
+
+1. Ranking de visibilidad IA.
+
+2. Ranking de autoridad.
+
+3. Ranking GEO.
+
+4. Mapa competitivo.
+
+5. Riesgos para SmartFran.
+
+6. Oportunidades inmediatas.
+
+7. Plan de acción 30-90-180 días.
+
+8. Recomendación ejecutiva para el CEO de SmartFran.
+
+
+
+
+
+
+
+ 
